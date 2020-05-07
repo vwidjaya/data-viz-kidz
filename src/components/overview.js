@@ -24,11 +24,7 @@ const MockupCreative = () => (
         top: 0,
       }}
     >
-      <img
-        src={mockupFrame}
-        width="100%"
-        alt="outlines of shapes and confetti in the background "
-      />
+      <img src={mockupFrame} width="100%" alt="curriculum mockup, frame" />
     </div>
     <div
       style={{
