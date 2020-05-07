@@ -9,7 +9,7 @@ const Header = ({ siteTitle }) => (
     style={{
       marginRight: '-1rem',
       marginLeft: '-1rem',
-      backgroundImage: `url(${cover})`,
+      backgroundImage: `url(.${cover})`,
       backgroundPositionY: 'bottom',
       backgroundSize: 'cover',
     }}

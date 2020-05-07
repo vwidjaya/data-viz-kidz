@@ -24,7 +24,11 @@ const MockupCreative = () => (
         top: 0,
       }}
     >
-      <img src={mockupFrame} width="100%" alt="curriculum mockup, frame" />
+      <img
+        src={`.${mockupFrame}`}
+        width="100%"
+        alt="curriculum mockup, frame"
+      />
     </div>
     <div
       style={{
@@ -50,7 +54,7 @@ const Header = ({ siteTitle }) => (
   >
     <div
       style={{
-        backgroundImage: `url(${headerImage})`,
+        backgroundImage: `url(.${headerImage})`,
         position: 'absolute',
         top: 0,
         zIndex: -5,

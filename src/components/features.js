@@ -31,7 +31,7 @@ const Features = () => (
         <div
           style={{
             backgroundColor: COLORS.cream,
-            WebkitMaskImage: `url(${feature_obj})`,
+            WebkitMaskImage: `url(.${feature_obj})`,
             WebkitMaskSize: '100% 100%',
             height: '5rem',
             width: '5rem',
@@ -51,7 +51,7 @@ const Features = () => (
         <div
           style={{
             backgroundColor: COLORS.cream,
-            WebkitMaskImage: `url(${feature_indus})`,
+            WebkitMaskImage: `url(.${feature_indus})`,
             WebkitMaskSize: '100% 100%',
             height: '5rem',
             width: '5rem',
@@ -71,7 +71,7 @@ const Features = () => (
         <div
           style={{
             backgroundColor: COLORS.cream,
-            WebkitMaskImage: `url(${feature_intdis})`,
+            WebkitMaskImage: `url(.${feature_intdis})`,
             WebkitMaskSize: '120% 100%',
             height: '5rem',
             width: '5rem',
@@ -91,7 +91,7 @@ const Features = () => (
         <div
           style={{
             backgroundColor: COLORS.cream,
-            WebkitMaskImage: `url(${feature_stu})`,
+            WebkitMaskImage: `url(.${feature_stu})`,
             WebkitMaskSize: '100% 100%',
             height: '5rem',
             width: '5rem',
