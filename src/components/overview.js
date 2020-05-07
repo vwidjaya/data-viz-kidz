@@ -2,7 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 
 import headerImage from '../images/header.png'
-import MockupContent from './image'
+import mockupContent from '../images/mockup-content.png'
 import mockupFrame from '../images/mockup-frame.png'
 
 const MockupCreative = () => (
@@ -15,7 +15,11 @@ const MockupCreative = () => (
     }}
   >
     <div style={{ clipPath: 'inset(2% 5% round 2% 5%)' }}>
-      <MockupContent />
+      <img
+        src={`.${mockupContent}`}
+        width="100%"
+        alt="curriculum mockup, content"
+      />
     </div>
     <div
       style={{
