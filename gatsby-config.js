@@ -18,5 +18,4 @@ module.exports = {
       },
     },
   ],
-  pathPrefix: '/capstone',
 }
