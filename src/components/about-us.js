@@ -22,30 +22,72 @@ const AboutUs = () => (
       }}
     >
       <div style={{ marginBottom: '2rem' }}>
-        <div>
-          <h3 style={{ marginBottom: '.5rem' }}>{'Aishwarya Manoharan'}</h3>
-          <p style={{ color: COLORS.lightGray }}>Program Manager</p>
-        </div>
+        <h3 style={{ marginBottom: '.5rem' }}>{'Aishwarya Manoharan'}</h3>
+        <p style={{ color: COLORS.lightGray, marginBottom: '.5rem' }}>
+          Program Manager
+        </p>
+        <a
+          href="mailto:maggie.tsang@microsoft.com"
+          style={{ color: COLORS.teal }}
+        >
+          aishwm@uw.edu
+        </a>
       </div>
       <div style={{ marginBottom: '2rem' }}>
-        <div>
-          <h3 style={{ marginBottom: '.5rem' }}>{'Larissa Ho'}</h3>
-          <p style={{ color: COLORS.lightGray }}>Research Lead</p>
-        </div>
+        <h3 style={{ marginBottom: '.5rem' }}>{'Larissa Ho'}</h3>
+        <p style={{ color: COLORS.lightGray, marginBottom: '.5rem' }}>
+          Research Lead
+        </p>
+        <a
+          href="mailto:maggie.tsang@microsoft.com"
+          style={{ color: COLORS.teal }}
+        >
+          lho12@uw.edu
+        </a>
       </div>
       <div style={{ marginBottom: '2rem' }}>
-        <div>
-          <h3 style={{ marginBottom: '.5rem' }}>{'Vincent Widjaya'}</h3>
-          <p style={{ color: COLORS.lightGray }}>Tech Lead</p>
-        </div>
+        <h3 style={{ marginBottom: '.5rem' }}>{'Vincent Widjaya'}</h3>
+        <p style={{ color: COLORS.lightGray, marginBottom: '.5rem' }}>
+          Tech Lead
+        </p>
+        <a
+          href="mailto:maggie.tsang@microsoft.com"
+          style={{ color: COLORS.teal }}
+        >
+          vwidjaya@uw.edu
+        </a>
       </div>
       <div style={{ marginBottom: '2rem' }}>
-        <div>
-          <h3 style={{ marginBottom: '.5rem' }}>{'Jeeyoung Kim '}</h3>
-          <p style={{ color: COLORS.lightGray }}>Education Content Lead</p>
-        </div>
+        <h3 style={{ marginBottom: '.5rem' }}>{'Jeeyoung Kim '}</h3>
+        <p style={{ color: COLORS.lightGray, marginBottom: '.5rem' }}>
+          Education Content Lead
+        </p>
+        <a
+          href="mailto:maggie.tsang@microsoft.com"
+          style={{ color: COLORS.teal }}
+        >
+          mk0711@uw.edu
+        </a>
       </div>
     </content>
+    <hr style={{ margin: 'auto', maxWidth: '800px' }} />
+    <div style={{ paddingTop: '2rem', color: 'black' }}>
+      <p style={{ color: COLORS.lightGray }}>
+        After June 2020, Data Viz Kids will no longer be maintaining this
+        project. The data literacy curriculum will be continued by Microsoft's
+        PowerBI team, with Maggie Tsang as their point of contact.
+      </p>
+      <h3 style={{ marginBottom: '.5rem' }}>{'Maggie Tsang'}</h3>
+      <p style={{ color: COLORS.lightGray, marginBottom: '.5rem' }}>
+        Program Manager
+      </p>
+      <a
+        href="mailto:maggie.tsang@microsoft.com"
+        style={{ color: COLORS.teal }}
+      >
+        maggie.tsang@microsoft.com
+      </a>
+    </div>
   </div>
 )
 
