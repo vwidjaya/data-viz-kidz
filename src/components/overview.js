@@ -34,7 +34,7 @@ const MockupCreative = () => (
         alt="curriculum mockup, frame"
       />
     </div>
-    <div
+    {/* <div
       style={{
         position: 'absolute',
         width: '100%',
@@ -43,7 +43,7 @@ const MockupCreative = () => (
         zIndex: 5,
         background: 'linear-gradient(to top, white 15%, transparent)',
       }}
-    />
+    /> */}
   </div>
 )
 
