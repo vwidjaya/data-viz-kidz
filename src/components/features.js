@@ -62,8 +62,8 @@ const Features = () => (
         <div>
           <h3>{'Relevant in Industry'}</h3>
           <p style={{ color: COLORS.lightWhite }}>
-            Includes plugins for analytics, building sitemaps, and optimizing
-            images
+            Cultivates industry relevant data skills to prepare middle school
+            students for higher education and workforce
           </p>
         </div>
       </div>
@@ -82,8 +82,8 @@ const Features = () => (
         <div>
           <h3>{'Interdisciplinary'}</h3>
           <p style={{ color: COLORS.lightWhite }}>
-            Includes plugins for analytics, building sitemaps, and optimizing
-            images
+            Various activities and data sources allows teachers to integrate the
+            curriculum to any subject area
           </p>
         </div>
       </div>
@@ -102,8 +102,8 @@ const Features = () => (
         <div>
           <h3>{'Student-centered'}</h3>
           <p style={{ color: COLORS.lightWhite }}>
-            Includes plugins for analytics, building sitemaps, and optimizing
-            images
+            Emphasis on students engagement and participation through
+            interactive activities.
           </p>
         </div>
       </div>
