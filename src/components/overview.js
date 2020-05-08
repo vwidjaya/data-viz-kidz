@@ -4,6 +4,7 @@ import PropTypes from 'prop-types'
 import headerImage from '../images/header.png'
 import mockupContent from '../images/mockup-content.png'
 import mockupFrame from '../images/mockup-frame.png'
+import Button from './button'
 
 const MockupCreative = () => (
   <div
@@ -112,6 +113,15 @@ const Header = ({ siteTitle }) => (
           classrooms.
         </p>
       </div>
+    </div>
+
+    <div style={{ display: 'flex', justifyContent: 'center' }}>
+      <a
+        target="#_blank"
+        href="https://drive.google.com/open?id=1hQQ0XR94TClZw7akNYvdFhU7z2OHtSMr"
+      >
+        <Button>Google Drive Link</Button>
+      </a>
     </div>
   </div>
 )

@@ -11,8 +11,8 @@ export const COLORS = {
   cream: 'rgb(222, 204, 171)',
 }
 
-export const GRADIENT = `linear-gradient(to top right, ${COLORS.babyBlue}, ${
-  COLORS.blue
+export const GRADIENT = `linear-gradient(to top right, ${COLORS.cream}, ${
+  COLORS.teal
 })`
 
 export const BORDER_RADIUS = '10px'
