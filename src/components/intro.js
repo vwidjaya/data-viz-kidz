@@ -26,7 +26,7 @@ const Header = ({ siteTitle }) => (
         color: COLORS.lightWhite,
       }}
     >
-      <h1 style={{ textAlign: 'left' }}>Data skills, for the youth.</h1>
+      <h1 style={{ textAlign: 'left' }}>Data skills for the youth.</h1>
       <p style={{ textAlign: 'left', maxWidth: 440 }}>
         According to IBM, 90% of the world’s data has been created in the last
         two years. However, our current education system fails to equip students
