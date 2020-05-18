@@ -26,10 +26,7 @@ const AboutUs = () => (
         <p style={{ color: COLORS.lightGray, marginBottom: '.5rem' }}>
           Program Manager
         </p>
-        <a
-          href="mailto:maggie.tsang@microsoft.com"
-          style={{ color: COLORS.teal }}
-        >
+        <a href="mailto:aishwm@uw.edu" style={{ color: COLORS.teal }}>
           aishwm@uw.edu
         </a>
       </div>
@@ -38,10 +35,7 @@ const AboutUs = () => (
         <p style={{ color: COLORS.lightGray, marginBottom: '.5rem' }}>
           Research Lead
         </p>
-        <a
-          href="mailto:maggie.tsang@microsoft.com"
-          style={{ color: COLORS.teal }}
-        >
+        <a href="mailto:lho12@uw.edu" style={{ color: COLORS.teal }}>
           lho12@uw.edu
         </a>
       </div>
@@ -50,10 +44,7 @@ const AboutUs = () => (
         <p style={{ color: COLORS.lightGray, marginBottom: '.5rem' }}>
           Tech Lead
         </p>
-        <a
-          href="mailto:maggie.tsang@microsoft.com"
-          style={{ color: COLORS.teal }}
-        >
+        <a href="mailto:vwidjaya@uw.edu" style={{ color: COLORS.teal }}>
           vwidjaya@uw.edu
         </a>
       </div>
@@ -62,10 +53,7 @@ const AboutUs = () => (
         <p style={{ color: COLORS.lightGray, marginBottom: '.5rem' }}>
           Education Content Lead
         </p>
-        <a
-          href="mailto:maggie.tsang@microsoft.com"
-          style={{ color: COLORS.teal }}
-        >
+        <a href="mailto:mk0711@uw.edu" style={{ color: COLORS.teal }}>
           mk0711@uw.edu
         </a>
       </div>
@@ -82,10 +70,10 @@ const AboutUs = () => (
         Program Manager
       </p>
       <a
-        href="mailto:maggie.tsang@microsoft.com"
+        href="https://www.linkedin.com/in/tsangmaggie/"
         style={{ color: COLORS.teal }}
       >
-        maggie.tsang@microsoft.com
+        LinkedIn
       </a>
     </div>
   </div>
